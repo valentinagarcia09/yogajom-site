@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/yogajom-site/static/css/main.26f5297d.chunk.css",
+    "main.js": "/yogajom-site/static/js/main.19455a96.chunk.js",
+    "main.js.map": "/yogajom-site/static/js/main.19455a96.chunk.js.map",
+    "runtime-main.js": "/yogajom-site/static/js/runtime-main.724ac0ba.js",
+    "runtime-main.js.map": "/yogajom-site/static/js/runtime-main.724ac0ba.js.map",
+    "static/js/2.ef3d4589.chunk.js": "/yogajom-site/static/js/2.ef3d4589.chunk.js",
+    "static/js/2.ef3d4589.chunk.js.map": "/yogajom-site/static/js/2.ef3d4589.chunk.js.map",
+    "index.html": "/yogajom-site/index.html",
+    "static/css/main.26f5297d.chunk.css.map": "/yogajom-site/static/css/main.26f5297d.chunk.css.map",
+    "static/js/2.ef3d4589.chunk.js.LICENSE.txt": "/yogajom-site/static/js/2.ef3d4589.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/yogajom-site/static/media/matas.59f78bfd.png",
+    "static/media/fundadoras.17b20a71.png": "/yogajom-site/static/media/fundadoras.17b20a71.png",
+    "static/media/hatha.26fc185f.png": "/yogajom-site/static/media/hatha.26fc185f.png",
+    "static/media/hatha_yoga.2ed5c231.png": "/yogajom-site/static/media/hatha_yoga.2ed5c231.png",
+    "static/media/hero-image.859d0b24.jpg": "/yogajom-site/static/media/hero-image.859d0b24.jpg",
+    "static/media/hero-image.d10776f3.png": "/yogajom-site/static/media/hero-image.d10776f3.png",
+    "static/media/kundalini.1fc98016.png": "/yogajom-site/static/media/kundalini.1fc98016.png",
+    "static/media/kundalini2.eed52555.PNG": "/yogajom-site/static/media/kundalini2.eed52555.PNG",
+    "static/media/maria.05c2416e.png": "/yogajom-site/static/media/maria.05c2416e.png",
+    "static/media/maria.da4b709b.JPG": "/yogajom-site/static/media/maria.da4b709b.JPG",
+    "static/media/marly.7efc3896.png": "/yogajom-site/static/media/marly.7efc3896.png",
+    "static/media/marly.a0a59cec.JPG": "/yogajom-site/static/media/marly.a0a59cec.JPG",
+    "static/media/vale.8b6df7cd.JPG": "/yogajom-site/static/media/vale.8b6df7cd.JPG",
+    "static/media/vale.919fd303.png": "/yogajom-site/static/media/vale.919fd303.png",
+    "static/media/video yoga.b9ffe100.png": "/yogajom-site/static/media/video yoga.b9ffe100.png",
+    "static/media/video_yoga.f138d9cf.mp4": "/yogajom-site/static/media/video_yoga.f138d9cf.mp4",
+    "static/media/ximen.95129d67.jpg": "/yogajom-site/static/media/ximen.95129d67.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724ac0ba.js",
+    "static/js/2.ef3d4589.chunk.js",
+    "static/css/main.26f5297d.chunk.css",
+    "static/js/main.19455a96.chunk.js"
+  ]
+}
